@@ -103,6 +103,5 @@ C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\RedBadge\RestaurantRaterM
 C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\RedBadge\RestaurantRaterMVC\RestaurantRaterMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\RedBadge\RestaurantRaterMVC\RestaurantRaterMVC\obj\Debug\RestaurantRaterMVC.csproj.AssemblyReference.cache
 C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\RedBadge\RestaurantRaterMVC\RestaurantRaterMVC\obj\Debug\RestaurantRaterMVC.csproj.CoreCompileInputs.cache
-C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\RedBadge\RestaurantRaterMVC\RestaurantRaterMVC\obj\Debug\RestaurantRaterMVC.csproj.CopyComplete
 C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\RedBadge\RestaurantRaterMVC\RestaurantRaterMVC\obj\Debug\RestaurantRaterMVC.dll
 C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\RedBadge\RestaurantRaterMVC\RestaurantRaterMVC\obj\Debug\RestaurantRaterMVC.pdb
